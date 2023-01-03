@@ -131,4 +131,8 @@ Button 1/2/3(both):
 ```
 
 # Workflow of the drive mode system:
-![](https://github.com/tirzagabriella/FSM-Drive-Mode/blob/main/FSM%20Drive%20Mode%20Simulation/video.mp4)
+
+
+https://user-images.githubusercontent.com/74703140/210387160-d826673f-f892-4109-9b95-020faff32af6.mp4
+
+
