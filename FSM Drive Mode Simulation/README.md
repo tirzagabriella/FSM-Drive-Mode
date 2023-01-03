@@ -39,6 +39,7 @@ And there's 2 input:
 
 ## Derive Combinatorial Boolean Equation from K-map:
 <img src="https://github.com/tirzagabriella/FSM-Drive-Mode/blob/main/FSM%20Drive%20Mode%20Simulation/BooleanEquation.jpg" width="300" height="400" />
+
 * S0 = B2' s1 + B1' s0 s1' + B1' s0' s1
 * S1 = B2' s1' + s0' s1' + B2' s0' + B1' s0
 * O0 = s0' s1
