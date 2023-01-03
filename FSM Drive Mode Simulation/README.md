@@ -29,7 +29,7 @@ And there's 2 input:
 
 
 ## State Diagram:
-![State Diagram](StateDiagram.jpg)
+<img src="https://github.com/tirzagabriella/FSM-Drive-Mode/blob/main/FSM%20Drive%20Mode%20Simulation/StateDiagram.jpg" width="200" height="400" />
 
 ## Truth Table:
 ![Truth Table](TruthTable.jpg)
