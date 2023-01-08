@@ -29,7 +29,7 @@ And there's 2 input:
 
 
 ## State Diagram:
-<img src="https://github.com/tirzagabriella/FSM-Drive-Mode/blob/main/FSM%20Drive%20Mode%20Simulation/StateDiagram.jpg" width="300" height="400" />
+<img src="https://github.com/tirzagabriella/FSM-Drive-Mode/blob/main/StateDiagram.jpg" width="300" height="400" />
 
 ## Truth Table:
 <img src="https://github.com/tirzagabriella/FSM-Drive-Mode/blob/main/FSM%20Drive%20Mode%20Simulation/TruthTable.jpg" width="500" height="400" />
